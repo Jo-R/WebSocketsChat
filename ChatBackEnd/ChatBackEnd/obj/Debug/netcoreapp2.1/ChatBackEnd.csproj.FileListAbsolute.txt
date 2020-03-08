@@ -1,0 +1,14 @@
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\bin\Debug\netcoreapp2.1\ChatBackEnd.deps.json
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\bin\Debug\netcoreapp2.1\ChatBackEnd.runtimeconfig.json
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\bin\Debug\netcoreapp2.1\ChatBackEnd.runtimeconfig.dev.json
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\bin\Debug\netcoreapp2.1\ChatBackEnd.dll
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\bin\Debug\netcoreapp2.1\ChatBackEnd.pdb
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.csprojAssemblyReference.cache
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.RazorAssemblyInfo.cache
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.RazorAssemblyInfo.cs
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.AssemblyInfoInputs.cache
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.AssemblyInfo.cs
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.dll
+C:\Users\jorig\codingProjects\ChatWebSockets\ChatBackEnd\ChatBackEnd\obj\Debug\netcoreapp2.1\ChatBackEnd.pdb
